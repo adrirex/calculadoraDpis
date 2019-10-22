@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CalculadoraDpi.iml" filepath="$PROJECT_DIR$/.idea/CalculadoraDpi.iml" />
-      <module fileurl="file://E:\Android\CalculadoraDpi\CalculadoraDpi2.iml" filepath="E:\Android\CalculadoraDpi\CalculadoraDpi2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\Android\CalculadoraDpi\app\app.iml" filepath="E:\Android\CalculadoraDpi\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraDpi.iml" filepath="$PROJECT_DIR$/calculadoraDpi.iml" />
     </modules>
   </component>
 </project>
