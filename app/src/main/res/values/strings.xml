@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CalculadoraDpi</string>
+    <string name="rv">Resolució Vertical</string>
+    <string name="rh">Resolució Horitzontal</string>
+    <string name="diagonal">Diagonal</string>
+    <string name="txtButton">Calcula DPI</string>
+    <string name="dpis">Dpis</string>
 </resources>
