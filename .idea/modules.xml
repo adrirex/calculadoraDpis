@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/calculadoraDpi.iml" filepath="$PROJECT_DIR$/calculadoraDpi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraDpis.iml" filepath="$PROJECT_DIR$/calculadoraDpis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/calculadoraDpis-app.iml" filepath="$PROJECT_DIR$/app/calculadoraDpis-app.iml" />
     </modules>
   </component>
 </project>

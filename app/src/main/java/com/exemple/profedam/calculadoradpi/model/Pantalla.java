@@ -9,21 +9,18 @@ import com.exemple.profedam.calculadoradpi.utils.MyUtils;
 
 public class Pantalla {
 
-
     private int resHoritzontal;
     private int resVertical;
     private int dpi;
     private double diagonal;
 
-
-    public Pantalla(int resHoritzontal, int resVertical,  double diagonal) {
+    public Pantalla(int resHoritzontal, int resVertical,  double diagonal){
         this.resHoritzontal = resHoritzontal;
         this.resVertical = resVertical;
         this.diagonal = diagonal;
         calcularDpi();
     }
-    public Pantalla (int resHoritzontal, int resVertical, int dpi)
-    {
+    public Pantalla (int resHoritzontal, int resVertical, int dpi) {
         this.resHoritzontal = resHoritzontal;
         this.resVertical = resVertical;
         this.dpi = dpi;
